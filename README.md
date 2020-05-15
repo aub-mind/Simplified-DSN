@@ -6,7 +6,11 @@ This is a simplified implementation of the popular "[Domain Separation Neural Ne
 <br/>
 The main code parts including loss functions, encoders and the shared decoder were borrowed from the DSN official implementation. Big part of this implementation was inspired by the Domain Adaptation Neural Network official implementatio see "https://github.com/pumpikano". 
 
+
+## Requirements
 Tested with TensorFlow=1.14.0 and Python 3.6.
+
+
 ## DSN_Model
 ![Alt text](images/DSN.png?raw=true "DSN Model")
 
